@@ -1,0 +1,6 @@
+{
+  "name": "SaaS AI Chatbot Platform",
+  "description": "A professional, white-labeled AI chatbot platform for businesses featuring user auth, settings customization, FAQs, knowledge base training, lead capture, and analytics.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
